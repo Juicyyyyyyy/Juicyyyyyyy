@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Corentin,</h1>
 <h3 align="center">A passionate backend developer from France</h3>
 
-- 🔭 I’m currently working on [JustClickBuild](www.justclickbuild.com)
+- 🔭 I’m currently working on [www.justclickbuild.com](www.justclickbuild.com)
 
 - 🌱 I’m currently learning **Vue.js, Machine Learning, Laravel**
 
