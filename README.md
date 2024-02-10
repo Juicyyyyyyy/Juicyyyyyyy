@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [JustClickBuild](https://www.justclickbuild.com)
 
-- 🌱 I’m currently learning **Vue.js, Machine Learning, Laravel**
+- 🌱 I’m currently learning **Vue.js, Django, Laravel**
 
 - 👨‍💻 All of my projects are available at [https://corentindupaigne.herokuapp.com](https://corentindupaigne.herokuapp.com)
 
