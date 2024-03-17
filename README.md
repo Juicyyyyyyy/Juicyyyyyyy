@@ -4,7 +4,7 @@
 
 - 👨‍💻 Have a look at my [portfolio](https://corentindupaigne.herokuapp.com)
 
-- 📫 Contact me on **corentin.dupaigne@gmail.com** or [LinkedIn](https://www.linkedin.com/in/corentin-dupaigne-b449a1242/)
+- 📫 Contact me on corentin.dupaigne@gmail.com or [LinkedIn](https://www.linkedin.com/in/corentin-dupaigne-b449a1242/)
 
 - 📄 Know about my experiences [Download my CV](https://corentindupaigne.herokuapp.com/static/pdf/cv.pdf)
 
