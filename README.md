@@ -1,22 +1,113 @@
-![Header](./github-header-image-3.png)
-
-<h1 align="center">Hi 👋, I'm Corentin,</h1>
-<h3 align="center">A passionate backend developer from France</h3>
+![Header](banner.png)
 
 - 🔭 I’m currently working on [JustClickBuild](https://www.justclickbuild.com)
 
-- 🌱 I’m currently learning **Vue.js, Django, Laravel**
+- 👨‍💻 Have a look at my [portfolio](https://corentindupaigne.herokuapp.com)
 
-- 👨‍💻 All of my projects are available at [https://corentindupaigne.herokuapp.com](https://corentindupaigne.herokuapp.com)
+- 📫 Contact me on **corentin.dupaigne@gmail.com** or [LinkedIn](https://www.linkedin.com/in/corentin-dupaigne-b449a1242/)
 
-- 📫 How to reach me **corentin.dupaigne@gmail.com**
+- 📄 Know about my experiences [Download my CV](https://corentindupaigne.herokuapp.com/static/pdf/cv.pdf)
 
-- 📄 Know about my experiences [https://corentindupaigne.herokuapp.com/static/pdf/cv_updated.pdf](https://corentindupaigne.herokuapp.com/static/pdf/cv_updated.pdf)
+<h2 align="left" id="macropower-tech">Favorite Tech</h2>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/corentin-dupaigne-b449a1242" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="corentin-dupaigne-b449a1242" height="30" width="40" /></a>
-</p>
+> Tools, languages, and other things that I like to work with.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="python_logo.png" width="48" height="48" alt="Golang" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="django_logo.svg" width="48" height="48" alt="Python" />
+      </a>
+      <br>Django
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="postgres_log.svg" width="48" height="48" alt="Jsonnet" />
+      </a>
+      <br>PostgreSQL
+    </td>
+<td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="laravel_logo.png" width="48" height="48" alt="Jsonnet" />
+      </a>
+      <br>Laravel
+    </td>
+<td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="flask_logo.png" width="48" height="48" alt="Python" />
+      </a>
+      <br>FLask
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="js_logo.png" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>Javascript
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="tailwind_css_logo.png" width="48" height="48" alt="Kubernetes" />
+      </a>
+      <br>TailwindCSS
+    </td>
+    <td align="center" width="96"> 
+      <a href="#macropower-tech" >
+        <img src="git_logo.png" width="48" height="48" alt="Docker" />
+      </a>
+      <br>Git
+    </td>
+    <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="heroku-logo.png" width="48" height="48" alt="Debian" />
+      </a>
+      <br>Heroku
+    </td>
+    <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="notion_logo.png" width="48" height="48" alt="Debian" />
+      </a>
+      <br>Notion
+    </td>
+  </tr>
+</table>
+
+## Projects Overview
+
+> Some of my favorite projects.
+
+<table>
+  <tr>
+    <td align="center" width="50%"><a href="https://justclickbuild.com">🤖 Multi Page Website Generator (2023-Now)</a></td>
+    <td align="center" width="50%"><a href="https://github.com/Juicyyyyyyy/portfolio_optimizer">💰 Portfolio Optimizer (2024)</a></td>
+  </tr>
+  <tr>
+    <td>A for-profit multi-page website generator based on artificial intelligence. Co-created with Tahirou Laouan Magagi. Try it now on <a href="http://justclickbuild.com">justclickbuild.com</a>.
+</td>
+    <td>A user-friendly financial portfolio optimization tool simplified through the integration of AI. Based on the research of Nobel Prize-winning economists.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/angeluriot/Hexawar.io"><img src="jcb_page.png" width="100%"></a></td>
+    <td><a href="https://github.com/angeluriot/Minecraft_clone"><img src="portfolio_optimizer_v2.png" width="100%"></a></td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td align="center" width="50%"><a href="https://www.tradingview.com/script/EKlYtPwv/">📊 Multi Indicators Table (2023)</a></td>
+    <td align="center" width="50%"><a href="https://github.com/Juicyyyyyyy/component_generator">🤖 Component Generator (2024)</a></td>
+  </tr>
+  <tr>
+    <td>A trading tool that presents an overview of the market in a tabular format using multiple categories of trading indicators. The indicator obtained more than 400 likes on TradingView. 
+</td>
+    <td>A Tailwind CSS component generator based on artificial intelligence.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.tradingview.com/script/EKlYtPwv/"><img src="multi_indicator.png" width="100%"></a></td>
+    <td><a href="https://github.com/Juicyyyyyyy/component_generator"><img src="component_generator.png" width="100%"></a></td>
+  </tr>
+</table>
