@@ -92,8 +92,8 @@
     <td>A user-friendly financial portfolio optimization tool simplified through the integration of AI. Based on the research of Nobel Prize-winning economists.</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/angeluriot/Hexawar.io"><img src="jcb_page.png" width="100%"></a></td>
-    <td><a href="https://github.com/angeluriot/Minecraft_clone"><img src="portfolio_optimizer_v2.png" width="100%"></a></td>
+    <td><a href="https://justclickbuild.com"><img src="jcb_page.png" width="100%"></a></td>
+    <td><a href="https://github.com/Juicyyyyyyy/portfolio_optimizer"><img src="portfolio_optimizer_v2.png" width="100%"></a></td>
   </tr>
 </table>
 <table>
@@ -109,5 +109,21 @@
   <tr>
     <td><a href="https://www.tradingview.com/script/EKlYtPwv/"><img src="multi_indicator.png" width="100%"></a></td>
     <td><a href="https://github.com/Juicyyyyyyy/component_generator"><img src="component_generator.png" width="100%"></a></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center" width="50%"><a href="https://corentindupaigne.herokuapp.com">💼 Personal Portfolio (2023)</a></td>
+    <td align="center" width="50%"><a href="https://www.tradingview.com/script/R12WO2J5-TrendVista-Swing-Indicator/">📊 TrendVista Swing Indicator (2024)</a></td>
+  </tr>
+  <tr>
+    <td>My personal portfolio, which I invite you to visit to learn more about my skills, achievements, and professional experiences.
+</td>
+    <td>A trading tool based on bollinger bands and average true range giving buy/sell signals on key levels.</td>
+  </tr>
+  <tr>
+    <td><a href="https://corentindupaigne.herokuapp.com"><img src="personal_portfolio.png" width="100%"></a></td>
+    <td><a href="https://www.tradingview.com/script/R12WO2J5-TrendVista-Swing-Indicator/"><img src="trend_vista_indicator_illustration.png" width="100%"></a></td>
   </tr>
 </table>
