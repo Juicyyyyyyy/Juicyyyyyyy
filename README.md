@@ -14,66 +14,58 @@
 
 <table>
   <tr>
+  <td align="center" width="96">
+        <img src="images/logos/c_logo.png" width="48" height="48" alt="Golang" />
+      <br>&nbsp;&nbsp;&nbsp;&nbsp;C&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="python_logo.png" width="48" height="48" alt="Golang" />
-      </a>
+        <img src="images/logos/python_logo.png" width="48" height="48" alt="Golang" />
       <br>Python
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="django_logo.svg" width="48" height="48" alt="Python" />
-      </a>
+        <img src="images/logos/django_logo.svg" width="48" height="48" alt="Python" />
       <br>Django
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="postgres_log.svg" width="48" height="48" alt="Jsonnet" />
-      </a>
+        <img src="images/logos/postgres_log.svg" width="48" height="48" alt="Jsonnet" />
       <br>PostgreSQL
     </td>
 <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="laravel_logo.png" width="48" height="48" alt="Jsonnet" />
-      </a>
+        <img src="images/logos/laravel_logo.png" width="48" height="48" alt="Jsonnet" />
       <br>Laravel
     </td>
 <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="flask_logo.png" width="48" height="48" alt="Python" />
-      </a>
+        <img src="images/logos/flask_logo.png" width="48" height="48" alt="Python" />
       <br>FLask
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="js_logo.png" width="48" height="48" alt="TypeScript" />
+        <img src="images/logos/js_logo.png" width="48" height="48" alt="TypeScript" />
       </a>
       <br>Javascript
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="tailwind_css_logo.png" width="48" height="48" alt="Kubernetes" />
-      </a>
+        <img src="images/logos/tailwind_css_logo.png" width="48" height="48" alt="Kubernetes" />
       <br>TailwindCSS
     </td>
     <td align="center" width="96"> 
-      <a href="#macropower-tech" >
-        <img src="git_logo.png" width="48" height="48" alt="Docker" />
-      </a>
-      <br>Git
-    </td>
-    <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="heroku-logo.png" width="48" height="48" alt="Debian" />
-      </a>
-      <br>Heroku
-    </td>
-    <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="notion_logo.png" width="48" height="48" alt="Debian" />
-      </a>
+        <img src="images/logos/git_logo.png" width="48" height="48" alt="Docker" />
+      <br>&nbsp;&nbsp;&nbsp;&nbsp;Git&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    </td><td align="center"  width="96">
+        <img src="images/logos/notion_logo.png" width="48" height="48" alt="Debian" />
       <br>Notion
     </td>
+    </td>
+    <td align="center"  width="96">
+        <img src="images/logos/vim_logo.svg" width="48" height="48" alt="vim" />
+      <br>&nbsp;&nbsp;&nbsp;Vim&nbsp;&nbsp;&nbsp;
+    </td>
+    <td align="center"  width="96">
+        <img src="images/logos/linux_logo.webp" width="48" height="48" alt="Linux" />
+      <br>&nbsp;&nbsp;Linux&nbsp;&nbsp;&nbsp;
+    </td>
+    
+    
+
   </tr>
 </table>
 
