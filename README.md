@@ -1,73 +1,82 @@
 ![Header](banner.png)
 
-- 🔭 I’m currently working on [JustClickBuild](https://www.justclickbuild.com)
+- Stuying software engineering at Epita Paris
+- Currently working for Enedis
+- Productivity maxxing
+- Finance enjoyer
 
-- 👨‍💻 Have a look at my [portfolio](https://corentindupaigne.herokuapp.com)
-
-- 📫 Contact me on corentin.dupaigne@gmail.com or [LinkedIn](https://www.linkedin.com/in/corentin-dupaigne-b449a1242/)
-
-- 📄 Know about my experiences [Download my CV](https://corentindupaigne.herokuapp.com/static/pdf/cv.pdf)
 
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
 
-> Tools, languages, and other things that I like to work with.
-
+<blockquote>Tools</blockquote>
 <table>
   <tr>
-  <td align="center" width="96">
-        <img src="images/logos/c_logo.png" width="48" height="48" alt="Golang" />
-      <br>&nbsp;&nbsp;&nbsp;&nbsp;C&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    </td>
     <td align="center" width="96">
-        <img src="images/logos/python_logo.png" width="48" height="48" alt="Golang" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-        <img src="images/logos/django_logo.svg" width="48" height="48" alt="Python" />
-      <br>Django
-    </td>
-    <td align="center" width="96">
-        <img src="images/logos/postgres_log.svg" width="48" height="48" alt="Jsonnet" />
-      <br>PostgreSQL
-    </td>
-<td align="center" width="96">
-        <img src="images/logos/laravel_logo.png" width="48" height="48" alt="Jsonnet" />
-      <br>Laravel
-    </td>
-<td align="center" width="96">
-        <img src="images/logos/flask_logo.png" width="48" height="48" alt="Python" />
-      <br>FLask
-    </td>
-    <td align="center" width="96">
-        <img src="images/logos/js_logo.png" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>Javascript
-    </td>
-    <td align="center" width="96">
-        <img src="images/logos/tailwind_css_logo.png" width="48" height="48" alt="Kubernetes" />
-      <br>TailwindCSS
-    </td>
-    <td align="center" width="96"> 
-        <img src="images/logos/git_logo.png" width="48" height="48" alt="Docker" />
+        <img src="images/logos/git_logo.png" width="48" height="48" alt="Git" />
       <br>&nbsp;&nbsp;&nbsp;&nbsp;Git&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    </td><td align="center"  width="96">
-        <img src="images/logos/notion_logo.png" width="48" height="48" alt="Debian" />
-      <br>Notion
     </td>
-    </td>
-    <td align="center"  width="96">
-        <img src="images/logos/vim_logo.svg" width="48" height="48" alt="vim" />
-      <br>&nbsp;&nbsp;&nbsp;Vim&nbsp;&nbsp;&nbsp;
-    </td>
-    <td align="center"  width="96">
+    <td align="center" width="96">
         <img src="images/logos/linux_logo.webp" width="48" height="48" alt="Linux" />
       <br>&nbsp;&nbsp;Linux&nbsp;&nbsp;&nbsp;
     </td>
-    
-    
-
+    <td align="center" width="96">
+        <img src="images/logos/neovimio-icon.svg" width="48" height="48" alt="Neovim" />
+      <br>&nbsp;&nbsp;&nbsp;Neovim&nbsp;&nbsp;&nbsp;
+    </td>
+    <td align="center" width="96">
+        <img src="images/logos/i3wm.png" width="48" height="48" alt="I3WM" />
+      <br>&nbsp;&nbsp;I3WM&nbsp;&nbsp;&nbsp;
+    </td>
+    <td align="center" width="96">
+        <img src="images/logos/notion_logo.png" width="48" height="48" alt="Notion" />
+      <br>Notion
+    </td>
+    <td align="center" width="96">
+        <img src="images/logos/obsidian.png" width="48" height="48" alt="Obsidian" />
+      <br>&nbsp;&nbsp;Obsidian&nbsp;&nbsp;&nbsp;
+    </td>
   </tr>
 </table>
+
+
+<blockquote>Languages and Frameworks</blockquote>
+<table>
+  <tr>
+    <td align="center" width="96">
+        <img src="images/logos/c_logo.png" width="48" height="48" alt="C" />
+      <br>&nbsp;&nbsp;&nbsp;&nbsp;C&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    </td>
+    <td align="center" width="96">
+        <img src="images/logos/python_logo.png" width="48" height="48" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+        <img src="images/logos/django_logo.svg" width="48" height="48" alt="Django" />
+      <br>Django
+    </td>
+    <td align="center" width="96">
+        <img src="images/logos/postgres_log.svg" width="48" height="48" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+        <img src="images/logos/laravel_logo.png" width="48" height="48" alt="Laravel" />
+      <br>Laravel
+    </td>
+    <td align="center" width="96">
+        <img src="images/logos/flask_logo.png" width="48" height="48" alt="Flask" />
+      <br>Flask
+    </td>
+    <td align="center" width="96">
+        <img src="images/logos/js_logo.png" width="48" height="48" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+        <img src="images/logos/tailwind_css_logo.png" width="48" height="48" alt="TailwindCSS" />
+      <br>TailwindCSS
+    </td>
+  </tr>
+</table>
+
 
 ## Projects Overview
 
