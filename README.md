@@ -81,7 +81,21 @@
 ## Projects Overview
 
 > Some of my favorite projects.
-
+<table>
+  <tr>
+    <td align="center" width="50%"><a href="https://github.com/Juicyyyyyyy/dotfiles">💻 Dotfiles (2024-Now)</a></td>
+    <td align="center" width="50%"><a href="https://pomopensource.com/">🍅 Pomopensource (2024-2025)</a></td>
+  </tr>
+  <tr>
+    <td>My personal reproducible Linux productivity-optimized workstation</a>.
+</td>
+    <td>A minimalist and customizable webapp providing statistics on how much time you worked and on which subject. </td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Juicyyyyyyy/dotfiles"><img src="images/illustrations/dotfiles.png" width="100%"></a></td>
+    <td><a href="https://pomopensource.com"><img src="images/illustrations/pomopensource.png" width="100%"></a></td>
+  </tr>
+</table>
 <table>
   <tr>
     <td align="center" width="50%"><a href="https://justclickbuild.com">🤖 Multi Page Website Generator (2023-Now)</a></td>
@@ -93,8 +107,8 @@
     <td>A user-friendly financial portfolio optimization tool simplified through the integration of AI. Based on the research of Nobel Prize-winning economists.</td>
   </tr>
   <tr>
-    <td><a href="https://justclickbuild.com"><img src="jcb_page.png" width="100%"></a></td>
-    <td><a href="https://github.com/Juicyyyyyyy/portfolio_optimizer"><img src="portfolio_optimizer_v2.png" width="100%"></a></td>
+    <td><a href="https://justclickbuild.com"><img src="images/illustrations/jcb_page.png" width="100%"></a></td>
+    <td><a href="https://github.com/Juicyyyyyyy/portfolio_optimizer"><img src="images/illustrations/portfolio_optimizer_v2.png" width="100%"></a></td>
   </tr>
 </table>
 <table>
@@ -108,8 +122,8 @@
     <td>A Tailwind CSS component generator based on artificial intelligence.</td>
   </tr>
   <tr>
-    <td><a href="https://www.tradingview.com/script/EKlYtPwv/"><img src="multi_indicator.png" width="100%"></a></td>
-    <td><a href="https://github.com/Juicyyyyyyy/component_generator"><img src="component_generator.png" width="100%"></a></td>
+    <td><a href="https://www.tradingview.com/script/EKlYtPwv/"><img src="images/illustrations/multi_indicator.png" width="100%"></a></td>
+    <td><a href="https://github.com/Juicyyyyyyy/component_generator"><img src="images/illustrations/component_generator.png" width="100%"></a></td>
   </tr>
 </table>
 
@@ -124,7 +138,7 @@
     <td>A trading tool based on bollinger bands and average true range giving buy/sell signals on key levels.</td>
   </tr>
   <tr>
-    <td><a href="https://corentindupaigne.herokuapp.com"><img src="personal_portfolio.png" width="100%"></a></td>
-    <td><a href="https://www.tradingview.com/script/R12WO2J5-TrendVista-Swing-Indicator/"><img src="trend_vista_indicator_illustration.png" width="100%"></a></td>
+    <td><a href="https://corentindupaigne.herokuapp.com"><img src="images/illustrations/personal_portfolio.png" width="100%"></a></td>
+    <td><a href="https://www.tradingview.com/script/R12WO2J5-TrendVista-Swing-Indicator/"><img src="images/illustrations/trend_vista_indicator_illustration.png" width="100%"></a></td>
   </tr>
 </table>
