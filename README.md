@@ -1,4 +1,4 @@
-![Header](banner.png)
+![Header](header.png)
 
 - Stuying software engineering at Epita Paris
 - Currently working for Enedis
